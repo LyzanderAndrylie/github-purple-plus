@@ -1,0 +1,26 @@
+{
+  "name": "github-purple-theme",
+  "displayName": "Github Purple Theme",
+  "description": "A dark VS Code theme inspired by GitHub's dark mode with purple accents.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Github Purple Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Github Purple Theme-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "LyzanderAndrylie",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LyzanderAndrylie/github-purple-theme"
+  }
+}
